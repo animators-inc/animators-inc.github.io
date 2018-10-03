@@ -1,8 +1,6 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              Praxis für Osteopathie
+locale:             de_DE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -41,9 +39,10 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location1:          Sendlinger-Tor-Platz 10, 80336 München
+location2:          Naturheilkunde Stöttwang, Kaufbeurer Straße 8a, 87677 Stöttwang
+phone:              0152 36 96 33 11
+email:              t.scherer@freenet.de
 
 # Gems
 gems:
