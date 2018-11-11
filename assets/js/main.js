@@ -112,9 +112,7 @@
 
 		// Disable animations/transitions until the page has loaded.
 			$window.on('load', function() {
-				window.setTimeout(function() {
-					$body.removeClass('is-loading');
-				}, 100);
+				$body.removeClass('is-loading');
 			});
 
 		// Prioritize "important" elements on medium.
