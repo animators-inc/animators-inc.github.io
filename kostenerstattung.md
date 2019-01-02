@@ -7,7 +7,7 @@ title: Kostenerstattung
 In den folgenden Fällen gibt es oftmals die Möglichkeit, dass eine durch einen Heilpraktiker durchgeführte osteopathische Behandlung von der Krankenversicherung ganz oder teilweise erstattet wird:
 * bei privat versicherten Patienten,
 * bei gesetzlich versicherten Patienten mit privater Zusatzversicherung,
-* bei Beihilfe-versicherten Patienten und
+* bei Beihilfe versicherten Patienten und
 * bei Patienten, die über die Postbeamtenkasse versichert sind.
 
 Eine ganze Reihe von Gesetzlichen Krankenkassen bieten die Möglichkeit einer Teilerstattung von osteopathischen Behandlungen an.

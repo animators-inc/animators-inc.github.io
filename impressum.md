@@ -5,9 +5,9 @@ title: Impressum
 ## Impressum
 Angaben gemäß § 5 TMG
 
-Tobias Scherer 
-Sendlinger-Tor-Platz 10
-80336 München 
+Tobias Scherer  
+Sendlinger-Tor-Platz 10  
+80336 München
 
 ### Vertreten durch: 
 Tobias Scherer
@@ -17,10 +17,10 @@ Telefon: 0152-36 96 33 11
 E-Mail: t.scherer@freenet.de
 
 ### Umsatzsteuer-ID: 
-Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Ust-ID
+Heilkundliche Tätigkeit ist von der Umsatzsteuer nach gemäß § 4 Nr.14 UStG befreit
 
 ### Aufsichtsbehörde:
-Heilpraktiker
+Referat für Gesundheit und Umwelt München Bayerstraße 28A, 80335 München
 
 ### Haftungsausschluss: 
 
