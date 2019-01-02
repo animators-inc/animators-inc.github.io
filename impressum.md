@@ -13,7 +13,7 @@ Sendlinger-Tor-Platz 10
 Tobias Scherer
 
 ### Kontakt: 
-Telefon: 0152-36 96 33 11
+Telefon: 0152-36 96 33 11  
 E-Mail: t.scherer@freenet.de
 
 ### Umsatzsteuer-ID: 
