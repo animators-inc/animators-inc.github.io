@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Was ist Ostheopatie
+title: Was ist Osteopathie
 ---
 
 <span class="image left"><img src="{{ "/images/osteopathie.jpg" | absolute_url }}" alt="" /></span>
