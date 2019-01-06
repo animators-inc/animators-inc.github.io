@@ -22,7 +22,7 @@ Die Parietale Osteopathie beschreibt den Bewegungsapparat mit allem, was dazu ge
 Die Viszerale Osteopathie beschreibt die Eingeweide, also alle Organe, ihre Aufhängestrukturen und ihre Verbindungen zu anderen Strukturen. Es ist immens wichtig, dass die Organe sich frei bewegen können. Nur so ist ein einwandfreies Funktionieren gewährleistet. Der Osteopath testet die Beweglichkeit der Organe mit den umliegenden Geweben und Nachbarorganen. Auffällige Verklebungen, Vernarbungen oder Verspannungen können durch manuelle Behandlung verbessert und gelöst werden. Durch Verbesserung der Bewegung und Position der Organe wird eine bessere Durchblutung sichergestellt. 
 
 ### Fazit 
-  
+
 Der Osteopath betrachtet den Körper als Ganzes und sucht nach den Ursachen der Beschwerden, um diese zu lösen, so dass sich alles frei bewegen kann und sich selbst reguliert. 
   
 Jedes Körperteil und jedes Organ benötigt zum optimalen Funktionieren Bewegungsfreiheit. 
