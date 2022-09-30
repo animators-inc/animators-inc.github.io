@@ -6,7 +6,7 @@ title: Impressum
 Angaben gemäß § 5 TMG
 
 Tobias Scherer  
-Lauweg 6
+Lauweg 6,
 81479 München
 
 ### Vertreten durch: 
