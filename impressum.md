@@ -6,8 +6,8 @@ title: Impressum
 Angaben gemäß § 5 TMG
 
 Tobias Scherer  
-Sendlinger-Tor-Platz 10  
-80336 München
+Lauweg 6
+81479 München
 
 ### Vertreten durch: 
 Tobias Scherer
